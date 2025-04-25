@@ -1,0 +1,2 @@
+# -Classifier-Combat-SVM-vs-DTC-vs-RF-in-the-Ring-of-Accuracy-
+🚀 Just completed a comparative Machine Learning project where I evaluated SVM, Decision Tree, and Random Forest models on a social network ads dataset to predict user purchase behavior! 🔍 From preprocessing and label encoding to model training and accuracy comparison — this project sharpened my skills in model evaluation and feature scaling.
